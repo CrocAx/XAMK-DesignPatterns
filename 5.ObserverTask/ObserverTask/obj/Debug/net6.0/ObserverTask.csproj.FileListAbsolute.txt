@@ -1,0 +1,14 @@
+C:\Users\NaN\source\repos\ObserverTask\ObserverTask\bin\Debug\net6.0\ObserverTask.exe
+C:\Users\NaN\source\repos\ObserverTask\ObserverTask\bin\Debug\net6.0\ObserverTask.deps.json
+C:\Users\NaN\source\repos\ObserverTask\ObserverTask\bin\Debug\net6.0\ObserverTask.runtimeconfig.json
+C:\Users\NaN\source\repos\ObserverTask\ObserverTask\bin\Debug\net6.0\ObserverTask.dll
+C:\Users\NaN\source\repos\ObserverTask\ObserverTask\bin\Debug\net6.0\ObserverTask.pdb
+C:\Users\NaN\source\repos\ObserverTask\ObserverTask\obj\Debug\net6.0\ObserverTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NaN\source\repos\ObserverTask\ObserverTask\obj\Debug\net6.0\ObserverTask.AssemblyInfoInputs.cache
+C:\Users\NaN\source\repos\ObserverTask\ObserverTask\obj\Debug\net6.0\ObserverTask.AssemblyInfo.cs
+C:\Users\NaN\source\repos\ObserverTask\ObserverTask\obj\Debug\net6.0\ObserverTask.csproj.CoreCompileInputs.cache
+C:\Users\NaN\source\repos\ObserverTask\ObserverTask\obj\Debug\net6.0\ObserverTask.dll
+C:\Users\NaN\source\repos\ObserverTask\ObserverTask\obj\Debug\net6.0\refint\ObserverTask.dll
+C:\Users\NaN\source\repos\ObserverTask\ObserverTask\obj\Debug\net6.0\ObserverTask.pdb
+C:\Users\NaN\source\repos\ObserverTask\ObserverTask\obj\Debug\net6.0\ObserverTask.genruntimeconfig.cache
+C:\Users\NaN\source\repos\ObserverTask\ObserverTask\obj\Debug\net6.0\ref\ObserverTask.dll

@@ -1,0 +1,14 @@
+C:\Users\NaN\source\repos\StrategyTask\StrategyTask\obj\Debug\net6.0\StrategyTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NaN\source\repos\StrategyTask\StrategyTask\obj\Debug\net6.0\StrategyTask.AssemblyInfoInputs.cache
+C:\Users\NaN\source\repos\StrategyTask\StrategyTask\obj\Debug\net6.0\StrategyTask.AssemblyInfo.cs
+C:\Users\NaN\source\repos\StrategyTask\StrategyTask\obj\Debug\net6.0\StrategyTask.csproj.CoreCompileInputs.cache
+C:\Users\NaN\source\repos\StrategyTask\StrategyTask\bin\Debug\net6.0\StrategyTask.exe
+C:\Users\NaN\source\repos\StrategyTask\StrategyTask\bin\Debug\net6.0\StrategyTask.deps.json
+C:\Users\NaN\source\repos\StrategyTask\StrategyTask\bin\Debug\net6.0\StrategyTask.runtimeconfig.json
+C:\Users\NaN\source\repos\StrategyTask\StrategyTask\bin\Debug\net6.0\StrategyTask.dll
+C:\Users\NaN\source\repos\StrategyTask\StrategyTask\bin\Debug\net6.0\StrategyTask.pdb
+C:\Users\NaN\source\repos\StrategyTask\StrategyTask\obj\Debug\net6.0\StrategyTask.dll
+C:\Users\NaN\source\repos\StrategyTask\StrategyTask\obj\Debug\net6.0\refint\StrategyTask.dll
+C:\Users\NaN\source\repos\StrategyTask\StrategyTask\obj\Debug\net6.0\StrategyTask.pdb
+C:\Users\NaN\source\repos\StrategyTask\StrategyTask\obj\Debug\net6.0\StrategyTask.genruntimeconfig.cache
+C:\Users\NaN\source\repos\StrategyTask\StrategyTask\obj\Debug\net6.0\ref\StrategyTask.dll

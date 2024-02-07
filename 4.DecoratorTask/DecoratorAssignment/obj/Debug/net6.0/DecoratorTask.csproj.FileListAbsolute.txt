@@ -1,0 +1,14 @@
+C:\Users\NaN\source\repos\DecoratorAssignment\DecoratorAssignment\bin\Debug\net6.0\DecoratorTask.exe
+C:\Users\NaN\source\repos\DecoratorAssignment\DecoratorAssignment\bin\Debug\net6.0\DecoratorTask.deps.json
+C:\Users\NaN\source\repos\DecoratorAssignment\DecoratorAssignment\bin\Debug\net6.0\DecoratorTask.runtimeconfig.json
+C:\Users\NaN\source\repos\DecoratorAssignment\DecoratorAssignment\bin\Debug\net6.0\DecoratorTask.dll
+C:\Users\NaN\source\repos\DecoratorAssignment\DecoratorAssignment\bin\Debug\net6.0\DecoratorTask.pdb
+C:\Users\NaN\source\repos\DecoratorAssignment\DecoratorAssignment\obj\Debug\net6.0\DecoratorTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NaN\source\repos\DecoratorAssignment\DecoratorAssignment\obj\Debug\net6.0\DecoratorTask.AssemblyInfoInputs.cache
+C:\Users\NaN\source\repos\DecoratorAssignment\DecoratorAssignment\obj\Debug\net6.0\DecoratorTask.AssemblyInfo.cs
+C:\Users\NaN\source\repos\DecoratorAssignment\DecoratorAssignment\obj\Debug\net6.0\DecoratorTask.csproj.CoreCompileInputs.cache
+C:\Users\NaN\source\repos\DecoratorAssignment\DecoratorAssignment\obj\Debug\net6.0\DecoratorTask.dll
+C:\Users\NaN\source\repos\DecoratorAssignment\DecoratorAssignment\obj\Debug\net6.0\refint\DecoratorTask.dll
+C:\Users\NaN\source\repos\DecoratorAssignment\DecoratorAssignment\obj\Debug\net6.0\DecoratorTask.pdb
+C:\Users\NaN\source\repos\DecoratorAssignment\DecoratorAssignment\obj\Debug\net6.0\DecoratorTask.genruntimeconfig.cache
+C:\Users\NaN\source\repos\DecoratorAssignment\DecoratorAssignment\obj\Debug\net6.0\ref\DecoratorTask.dll

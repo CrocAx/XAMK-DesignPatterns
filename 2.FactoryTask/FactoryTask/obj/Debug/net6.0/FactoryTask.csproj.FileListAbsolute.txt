@@ -1,0 +1,14 @@
+C:\Users\NaN\source\repos\FactoryTask\FactoryTask\bin\Debug\net6.0\FactoryTask.exe
+C:\Users\NaN\source\repos\FactoryTask\FactoryTask\bin\Debug\net6.0\FactoryTask.deps.json
+C:\Users\NaN\source\repos\FactoryTask\FactoryTask\bin\Debug\net6.0\FactoryTask.runtimeconfig.json
+C:\Users\NaN\source\repos\FactoryTask\FactoryTask\bin\Debug\net6.0\FactoryTask.dll
+C:\Users\NaN\source\repos\FactoryTask\FactoryTask\bin\Debug\net6.0\FactoryTask.pdb
+C:\Users\NaN\source\repos\FactoryTask\FactoryTask\obj\Debug\net6.0\FactoryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NaN\source\repos\FactoryTask\FactoryTask\obj\Debug\net6.0\FactoryTask.AssemblyInfoInputs.cache
+C:\Users\NaN\source\repos\FactoryTask\FactoryTask\obj\Debug\net6.0\FactoryTask.AssemblyInfo.cs
+C:\Users\NaN\source\repos\FactoryTask\FactoryTask\obj\Debug\net6.0\FactoryTask.csproj.CoreCompileInputs.cache
+C:\Users\NaN\source\repos\FactoryTask\FactoryTask\obj\Debug\net6.0\FactoryTask.dll
+C:\Users\NaN\source\repos\FactoryTask\FactoryTask\obj\Debug\net6.0\refint\FactoryTask.dll
+C:\Users\NaN\source\repos\FactoryTask\FactoryTask\obj\Debug\net6.0\FactoryTask.pdb
+C:\Users\NaN\source\repos\FactoryTask\FactoryTask\obj\Debug\net6.0\FactoryTask.genruntimeconfig.cache
+C:\Users\NaN\source\repos\FactoryTask\FactoryTask\obj\Debug\net6.0\ref\FactoryTask.dll

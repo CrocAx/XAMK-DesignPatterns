@@ -1,0 +1,1 @@
+## XAMK's Design Patterns course completed tasks.
